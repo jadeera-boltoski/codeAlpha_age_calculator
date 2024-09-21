@@ -1,0 +1,36 @@
+/* 
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20% 10% 20% 10%;
+  background-color:rgb(16, 16, 16);
+  border-radius: 5%;
+  display: inline;
+} */
+
+
+.container{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(57, 113, 162);
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 15%;
+  /* flex-wrap: wrap; */
+  padding: 3%;
+  border-radius: 5%;
+  text-align: center;
+  
+}
+.op{
+  font-size: larger;
+  font-weight: 100;
+  color: rgb(78, 35, 40);
+  text-decoration: solid;
+}
+.bttn{
+  padding-left: 3%;
+}
+
